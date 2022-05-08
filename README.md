@@ -27,12 +27,6 @@
  ---
  <h1 align="center"> API 1º Semestre Banco de Dados</h1>
   
-  <p align="center">
- <a href="#-resumo-do-projeto-clipboard"> Resumo do Projeto</a> •
- <a href="#-tecnologias-adotadas-computer">Tecnologias Adotadas</a> •
- <a href="#-contribuições-individuais-dart">Contribuições Individuais</a> •
- <a href="#-aprendizados-efetivos-book">Aprendizados Efetivos</a>
-  </p>
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
   ---
@@ -52,12 +46,6 @@
 
  <h1 align="center"> API 4º Semestre Banco de Dados</h1>
   
-  <p align="center">
- <a href="#-resumo-do-projeto-clipboard"> Resumo do Projeto</a> •
- <a href="#-tecnologias-adotadas-computer">Tecnologias Adotadas</a> •
- <a href="#-contribuições-individuais-dart">Contribuições Individuais</a> •
- <a href="#-aprendizados-efetivos-book">Aprendizados Efetivos</a>
-  </p>
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
   <p align="justify" style="font-family:roboto;"> :calendar: <b>#VEMPRACASA</b> é uma parceria entre a <a href="https://www.oracle.com/br/index.html">Oracle</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Sistema para realização de agendamentos de eventos nos espaços da Casa Oracle, seguindo as normas vigentes de ocupação por conta da Pandemia do Coronavírus, tendo a possibilidade de priorização de acordo com regras de negócio, facilitando a inscrição e cadastro de convidados e aumentando o controle por parte dos organizadores.</p>
