@@ -7,7 +7,7 @@
    <a href="#-api-1º-semestre"> 1º Semestre</a> •
     <a href="#-api-2º-semestre"> 2º Semestre</a></a> •
     <a href="#-api-3º-semestre"> 3º Semestre</a></a> •
-   <a href="#-api-4º-semestre"> 4º Semestre</a> •
+   <a href="#-api-4º-semestre-banco-de-dados"> 4º Semestre</a> •
    <a href="#"> 5º Semestre</a></a> •
    <a href="#"> 6º Semestre</a></a>
   </p>
