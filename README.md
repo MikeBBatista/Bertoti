@@ -105,7 +105,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-    <p align="justify" style="font-family:roboto;"> :calendar: <b>POC (Processos Otimizados de Contas)</b> é uma aplicação desktop criada para facilitar a inserção ou modificação de dados referentes a contas de luz e água de uma empresa, afim de gerar um relatório detalhado de seus consumos. A aplicação visa auxiliar o usuário a cadastrar as informações mais pertinentes encontradas em cada conta, e também em auxiliar na geração de relatórios sobre a contribuição de cada usuário para inserção ou modificação dos dados.</p>
+<p align="justify" style="font-family:roboto;"><b>POC (Processos Otimizados de Contas)</b> é uma aplicação desktop criada para facilitar a inserção ou modificação de dados referentes a contas de luz e água de uma empresa, afim de gerar um relatório detalhado de seus consumos. A aplicação visa auxiliar o usuário a cadastrar as informações mais pertinentes encontradas em cada conta, e também em auxiliar na geração de relatórios sobre a contribuição de cada usuário para inserção ou modificação dos dados.</p>
     <p align="justify" style="font-family:roboto;"> As funcionalidades da POC incluem: 
   <ul>
     <li>Cadastrar fornecedores.</li>
@@ -137,19 +137,19 @@
   <details>
   <summary>Demonstração da Arquitetura do Projeto</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/167305456-e41ef307-01ed-4a60-b94c-940d271fc478.png" width="200px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/167305456-e41ef307-01ed-4a60-b94c-940d271fc478.png" alt=""/>
   </details>
   <p align="justify" style="font-family:roboto;">Cada pasta representa uma parte específica do projeto, contendo todos os arquivos daquela parte específica. A pasta entities, por exemplo, guarda as classes que existem no projeto, enquanto que a pasta dao guarda os arquivos com metodos direcionados para inserção ou modificação de dados referente a cada tipo de classe no banco. Essa configuração permite uma melhor visualização do código, e uma separação concreta por etapas, que possibilita mudanças acertivas de acordo com a necessidade, sem que afete outra parte que não tem uma ligação dependente daquilo que será mudado.</p>
     <p align="justify" style="font-family:roboto;">Outra diferenciação e facilidade pertinente ao Java é sua tenacidade quanto a criação de uma interface para um projeto, diferente de um projeto web, que utiliza de html e css para criar uma interface amigavél para o usuário, o Java também possui bibliotecas próprias voltadas para o desenvolvimento de interfaces, facilitando a criação de uma aplicação desktop. Abaixo um exemplo de código para interface e sua representação em GUI Builder (biblioteca própria do java para interfaces).</p>
       <details>
   <summary>Demonstração do Código de Interface Java</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/167306812-6f8a1f01-7f27-4f71-9a64-f1a76d14a301.png" width="200px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/167306812-6f8a1f01-7f27-4f71-9a64-f1a76d14a301.png" alt=""/>
   </details>
    <details>
   <summary>Demonstração de Interface em Java</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/167306860-1588628b-7e15-4f1f-8040-0ffed8bf3bdb.png" width="200px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/167306860-1588628b-7e15-4f1f-8040-0ffed8bf3bdb.png" alt=""/>
   </details>
     <h4 style="font-family:roboto;">Considerações finais</h4>
     <p align="justify" style="font-family:roboto;">O projeto do segundo semestre deixa claro as intenções da instituição de forçar o aluno a desafiar os conhecimentos passados pelos professores. Todo conteúdo dado em sala de aula foi aplicado ao projeto, mas para sua execução ainda foi necessário vontade, criatividade e curiosidade por parte dos estudantes, pois muitas vezes o conhecimento passado pelos professores era limitado propositalmente para instigar ao aluno autonomia em suas pesquisas, sempre podendo contar com o auxílio do corpo acadêmico da instituição para esclarecimento de eventuais dúvidas.</p>
