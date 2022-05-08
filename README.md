@@ -4,12 +4,12 @@
  <h1 align="center"> Portfólio API's Banco de Dados</h1>
  
   <p align="center">
-   <a href="#-api-1º-semestre"> 1º Semestre</a> •
-    <a href="#-api-2º-semestre"> 2º Semestre</a></a> •
-    <a href="#-api-3º-semestre"> 3º Semestre</a></a> •
+   <a href="#-api-1º-semestre-banco-de-dados"> 1º Semestre</a> •
+    <a href="#-api-2º-semestre-banco-de-dados"> 2º Semestre</a></a> •
+    <a href="#-api-3º-semestre-banco-de-dados"> 3º Semestre</a></a> •
    <a href="#-api-4º-semestre-banco-de-dados"> 4º Semestre</a> •
-   <a href="#"> 5º Semestre</a></a> •
-   <a href="#"> 6º Semestre</a></a>
+   <a href="api-5º-semestre-banco-de-dados"> 5º Semestre</a></a> •
+   <a href="api-6º-semestre-banco-de-dados"> 6º Semestre</a></a>
   </p>
   
   ---
@@ -25,6 +25,31 @@
   </table>
 
  ---
+ <h1 align="center"> API 1º Semestre Banco de Dados</h1>
+  
+  <p align="center">
+ <a href="#-resumo-do-projeto-clipboard"> Resumo do Projeto</a> •
+ <a href="#-tecnologias-adotadas-computer">Tecnologias Adotadas</a> •
+ <a href="#-contribuições-individuais-dart">Contribuições Individuais</a> •
+ <a href="#-aprendizados-efetivos-book">Aprendizados Efetivos</a>
+  </p>
+  <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
+  
+  ---
+  
+  <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
+  
+  
+  ---
+  
+  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
+  
+  ---
+   
+  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+
+  ---
+
  <h1 align="center"> API 4º Semestre Banco de Dados</h1>
   
   <p align="center">
