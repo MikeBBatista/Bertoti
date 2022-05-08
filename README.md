@@ -201,7 +201,7 @@
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>
   
-      <ul>
+  <ul>
     <li>Agile Scrum:
     <ul>
       <li>Quebra de Tasks;</li>
